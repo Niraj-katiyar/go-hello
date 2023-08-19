@@ -5,6 +5,6 @@ go mod init main.go -> ths will generate go.mod file
 go mod tidy -> ths will generate go.sum file
 
 docker build -t go1 .
-docker run -p 8080:8080 -t go
+docker run -p 8080:8080 -t go1
 
 ec2-ip:8080 -> Open from browser
