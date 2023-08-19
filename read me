@@ -1,6 +1,6 @@
 Create one directory and run below command
 
-vim main.go -> paste content of first go file
+vim main.go -> paste content of gin-hello-world.go file
 go mod init main.go -> ths will generate go.mod file
 go mod tidy -> ths will generate go.sum file
 
